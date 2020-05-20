@@ -14,7 +14,7 @@ Remember to modify the application path in the .htaccess file
 ## How to use?
 Certifique-se de ter o composer instalado no seu projeto, depois clone o repositório para o seu projeto:<br/>
 Keep the composer installed in your project, then clone the repository for your project:<br/><br/>
-$ git clone https://github.com/Ueslen-dev/Basic-PHP-MVC-structure.git<br/>
+$ git clone https://github.com/Ueslen-dev/Basic-PHP-MVC-structure.git<br/><br/>
 Depois de clonar o repositório, execute o seguinte comando no terminal:<br/>
 After cloning the repository, run the following command on the terminal:<br/><br/>
 $ composer update
